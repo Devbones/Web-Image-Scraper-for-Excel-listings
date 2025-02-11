@@ -22,7 +22,7 @@ Web Image Scraper automates product image retrieval by extracting codes from Exc
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/Devbones/Web-Image-Scraper-for-Excel-listings
+   git clone https://github.com/Devbones/Web-Image-Scraper-for-Excel-listings.git
    cd listing-maker-3
    ```
 2. **Install Dependencies:**  
